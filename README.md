@@ -1,3 +1,3 @@
 react-eshint-frontend
 ===
-A stupid simple React based site for testing ESLint with React convention rules
+A stupid simple React based site for demoing ESLint with React plugin
