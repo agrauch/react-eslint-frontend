@@ -3,9 +3,10 @@
     "browser": true,
     "node": true
   },
-  "plugins": ["react-conventions"],
+  "plugins": ["react"],
   "rules": {
     "no-multi-spaces": false,
+    "no-multi-str": false,
     "quotes": [1, "single"]
   },
   "settings": {
