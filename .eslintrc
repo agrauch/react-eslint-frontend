@@ -5,12 +5,10 @@
   },
   "plugins": ["react"],
   "rules": {
-    "no-multi-spaces": false,
-    "no-multi-str": false,
     "quotes": [1, "single"]
   },
-  "settings": {
-    "ecmascript": 6,
-    "jsx": true
+  "ecmaFeatures": {
+    "jsx": true,
+    "objectLiteralShorthandMethods": true
   }
 }
