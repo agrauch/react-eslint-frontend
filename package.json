@@ -13,6 +13,7 @@
     "react": "0.12.2"
   },
   "devDependencies": {
+    "eslint-plugin-react": "git://github.com/agrauch/eslint-plugin-react#master",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-clean": "^0.6.0",
