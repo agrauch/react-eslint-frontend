@@ -3,7 +3,15 @@
 var React = require('react/addons');
 
 module.exports = React.createClass({
+  propTypes: {
+
+  },
+
   render: function() {
-    //return <div {...this.props} />;
+    var x = (arg) => {
+      return arg;
+    };
+
+    return <div {...this.props} />;
   }
 });
